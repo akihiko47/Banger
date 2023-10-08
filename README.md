@@ -1,5 +1,5 @@
 # 🛰️ Banger 🛰️
-![banner](https://github.com/akihiko47/Banger/blob/main/banner.jpg?raw=true)
+![banner](https://github.com/akihiko47/Banger/blob/main/banger.jpg?raw=true)
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/akihiko47/Banger)
 
