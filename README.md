@@ -1,4 +1,6 @@
 # 🛰️ Banger 🛰️
+![banner](https://github.com/akihiko47/Banger/blob/main/banner.jpg?raw=true)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/akihiko47/Banger)
 
 My last game made with python and pygame.
